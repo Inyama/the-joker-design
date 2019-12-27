@@ -1,0 +1,530 @@
+*, *::before, ::after{
+    margin:0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #262626;
+}
+.main{
+    position:absolute;
+    margin: -124px 38px;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    height: 373px;
+    width: 1081px;
+    display:flex;
+}
+
+.first{
+    background-color: aliceblue;
+    width: 582px;
+    height: 600px;
+    padding-left: 70px;
+    background: linear-gradient(to bottom,white 0%, white 70%, #ff0164 0%,#ff0164 30% );
+    clip-path: polygon(0 0, 88% 0, 48% 100%, 0% 100%);
+}
+.hl h3{
+    text-transform: uppercase;
+    color:#6c3f86;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.grey{
+    color:grey;
+    margin-top:17px;
+}
+.hl h1{
+    line-height: 50px;
+    margin-top:43px;
+    font-size:59px;
+}
+.pink{
+    color:#fd5094;
+    margin-top:27px;
+    font-weight: 600;
+}
+.pinky{
+    margin-top: 170px;
+    margin-left: 0px;
+    display: flex;
+}
+.hr{
+    width:90px;
+    border-color:#ffbfd9;
+    margin-top:7px;
+}
+.k:hover{
+    background: white;
+    color:#fd5094;
+}
+.letter1{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.letter2{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.letter3{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.third{
+    background-image:url('images/image\ of\ the\ joker\ 2.jpg');
+    background-repeat: no-repeat;
+    height: 597px;
+    width: 844px;
+    background-position: center;
+    margin-left: -88px;
+    background-size: cover;
+    position:relative;
+    clip-path: polygon(28% 0, 100% 0, 100% 100%, 0% 100%);
+}
+.transform{
+    text-transform: uppercase;
+}
+.watch{
+    font-weight:180;
+    float:right;
+}
+.far{
+    text-align: right;
+    margin-right: 70px;
+}
+.text{
+    position: absolute;
+    color:white;
+    margin-left: 90px;
+    line-height: 20px;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 22px;
+}
+.jtext{
+    position:absolute;
+    width:100%;
+    height:100%;
+    background-color: #333;
+    opacity: .8;
+    display: flex;
+    flex-direction: column;
+}
+.square{
+    display: flex;
+    flex-direction: column;
+    border: 0px solid blue;
+    background: #fd5094;
+    padding-top:3px;
+    padding-bottom:2px;
+    margin-top: 395px;
+    margin-left: 120px;
+    justify-content: flex-end;
+}
+.pi{
+    margin-top: 18px;
+    margin-right: 20px;
+    margin-bottom: 9px;
+    float: right;
+}
+.white{
+    background: white;
+    padding: 53px;
+    display:flex;
+}
+.h{
+    width: 203px;
+    margin-left: -42px;
+    border-color: #d8d8d8;
+    margin-top:8px;
+}
+.direct{
+    margin-left: 200px;
+    padding-left: 100px;
+    
+}
+.hd{
+    display: flex;
+    flex-direction: row;
+    margin-left: 105px;
+}
+.second{
+    position: absolute;
+    left: 306px;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    height: 597px;
+}*, *::before, ::after{
+    margin:0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #262626;
+}
+.main{
+    position:absolute;
+    margin: -124px 38px;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    height: 373px;
+    width: 1081px;
+    display:flex;
+}
+
+.first{
+    background-color: aliceblue;
+    width: 582px;
+    height: 600px;
+    padding-left: 70px;
+    background: linear-gradient(to bottom,white 0%, white 70%, #ff0164 0%,#ff0164 30% );
+    clip-path: polygon(0 0, 88% 0, 48% 100%, 0% 100%);
+}
+.hl h3{
+    text-transform: uppercase;
+    color:#6c3f86;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.grey{
+    color:grey;
+    margin-top:17px;
+}
+.hl h1{
+    line-height: 50px;
+    margin-top:43px;
+    font-size:59px;
+}
+.pink{
+    color:#fd5094;
+    margin-top:27px;
+    font-weight: 600;
+}
+.pinky{
+    margin-top: 170px;
+    margin-left: 0px;
+    display: flex;
+}
+.hr{
+    width:90px;
+    border-color:#ffbfd9;
+    margin-top:7px;
+}
+.k:hover{
+    background: white;
+    color:#fd5094;
+}
+.letter1{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.letter2{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.letter3{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.third{
+    background-image:url('images/image\ of\ the\ joker\ 2.jpg');
+    background-repeat: no-repeat;
+    height: 597px;
+    width: 844px;
+    background-position: center;
+    margin-left: -88px;
+    background-size: cover;
+    position:relative;
+    clip-path: polygon(28% 0, 100% 0, 100% 100%, 0% 100%);
+}
+.transform{
+    text-transform: uppercase;
+}
+.watch{
+    font-weight:180;
+    float:right;
+}
+.far{
+    text-align: right;
+    margin-right: 70px;
+}
+.text{
+    position: absolute;
+    color:white;
+    margin-left: 90px;
+    line-height: 20px;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 22px;
+}
+.jtext{
+    position:absolute;
+    width:100%;
+    height:100%;
+    background-color: #333;
+    opacity: .8;
+    display: flex;
+    flex-direction: column;
+}
+.square{
+    display: flex;
+    flex-direction: column;
+    border: 0px solid blue;
+    background: #fd5094;
+    padding-top:3px;
+    padding-bottom:2px;
+    margin-top: 395px;
+    margin-left: 120px;
+    justify-content: flex-end;
+}
+.pi{
+    margin-top: 18px;
+    margin-right: 20px;
+    margin-bottom: 9px;
+    float: right;
+}
+.white{
+    background: white;
+    padding: 53px;
+    display:flex;
+}
+.h{
+    width: 203px;
+    margin-left: -42px;
+    border-color: #d8d8d8;
+    margin-top:8px;
+}
+.direct{
+    margin-left: 200px;
+    padding-left: 100px;
+    
+}
+.hd{
+    display: flex;
+    flex-direction: row;
+    margin-left: 105px;
+}
+.second{
+    position: absolute;
+    left: 306px;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    padding-right: 4px;
+    height: 597px;
+    /* width: 557px; */
+}*, *::before, ::after{
+    margin:0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #262626;
+}
+.main{
+    position:absolute;
+    margin: -124px 38px;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    height: 373px;
+    width: 1081px;
+    display:flex;
+}
+
+.first{
+    background-color: aliceblue;
+    width: 582px;
+    height: 600px;
+    padding-left: 70px;
+    background: linear-gradient(to bottom,white 0%, white 70%, #ff0164 0%,#ff0164 30% );
+    clip-path: polygon(0 0, 88% 0, 48% 100%, 0% 100%);
+}
+.hl h3{
+    text-transform: uppercase;
+    color:#6c3f86;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.grey{
+    color:grey;
+    margin-top:17px;
+}
+.hl h1{
+    line-height: 50px;
+    margin-top:43px;
+    font-size:59px;
+}
+.pink{
+    color:#fd5094;
+    margin-top:27px;
+    font-weight: 600;
+}
+.pinky{
+    margin-top: 170px;
+    margin-left: 0px;
+    display: flex;
+}
+.hr{
+    width:90px;
+    border-color:#ffbfd9;
+    margin-top:7px;
+}
+.k:hover{
+    background: white;
+    color:#fd5094;
+}
+.letter1{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.letter2{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.letter3{
+    border: 1px solid white;
+    color: white;
+    align-self: center;
+    padding:10px;
+    margin-right: 10px;
+    align-items:center;
+    border-radius:100%;
+    width:10px;
+}
+.third{
+    background-image:url('images/image\ of\ the\ joker\ 2.jpg');
+    background-repeat: no-repeat;
+    height: 597px;
+    width: 844px;
+    background-position: center;
+    margin-left: -88px;
+    background-size: cover;
+    position:relative;
+    clip-path: polygon(28% 0, 100% 0, 100% 100%, 0% 100%);
+}
+.transform{
+    text-transform: uppercase;
+}
+.watch{
+    font-weight:180;
+    float:right;
+}
+.far{
+    text-align: right;
+    margin-right: 70px;
+}
+.text{
+    position: absolute;
+    color:white;
+    margin-left: 90px;
+    line-height: 20px;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 22px;
+}
+.jtext{
+    position:absolute;
+    width:100%;
+    height:100%;
+    background-color: #333;
+    opacity: .8;
+    display: flex;
+    flex-direction: column;
+}
+.square{
+    display: flex;
+    flex-direction: column;
+    border: 0px solid blue;
+    background: #fd5094;
+    padding-top:3px;
+    padding-bottom:2px;
+    margin-top: 395px;
+    margin-left: 120px;
+    justify-content: flex-end;
+}
+.pi{
+    margin-top: 18px;
+    margin-right: 20px;
+    margin-bottom: 9px;
+    float: right;
+}
+.white{
+    background: white;
+    padding: 53px;
+    display:flex;
+}
+.h{
+    width: 203px;
+    margin-left: -42px;
+    border-color: #d8d8d8;
+    margin-top:8px;
+}
+.direct{
+    margin-left: 200px;
+    padding-left: 100px;
+    
+}
+.hd{
+    display: flex;
+    flex-direction: row;
+    margin-left: 105px;
+}
+.second{
+    position: absolute;
+    left: 306px;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    padding-right: 4px;
+    height: 597px;
+    /* width: 557px; */
+}
